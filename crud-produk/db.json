@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "title": "Keyboard Mechanical",
+      "price": 750000
+    },
+    {
+      "title": "Headset Gaming",
+      "price": "350000",
+      "id": "QeI0yEf8Nkc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
